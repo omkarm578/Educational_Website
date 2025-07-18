@@ -19,3 +19,5 @@
 - HTML5  
 - CSS3 (with animations)  
 - JavaScript (Vanilla JS)
+
+  ![Alt Image](https://github.com/omkarm578/Educational_Website/blob/ec228209331b38eaab1b1030b60d924396b4e93e/Screenshot%202025-07-18%20153447.png)
